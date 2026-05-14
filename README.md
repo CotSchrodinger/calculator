@@ -25,7 +25,6 @@ src/main/java/org/example/
 ├── exception/
 │   ├── CalculatorException.java
 │   └── DivisionByZeroException.java
-└── exercices/                    — учебные упражнения по темам
 ```
 
 ## Как работает
